@@ -1,0 +1,12 @@
+TUTOR HACK WIFI KHUSUS ROOT
+
+apt update
+apt upgrade
+apt install git
+git clone https://github.com/kdsmedia/wificrack
+ls
+cd wificrack
+ls
+chmod +x wifi-hacker.sh
+ls
+./wifi-hacker.sh
